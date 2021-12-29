@@ -29,3 +29,7 @@ Once you've started the server with `mix phx.server` then you can visit [`localh
 - Docs: https://hexdocs.pm/phoenix
 - Forum: https://elixirforum.com/c/phoenix-forum
 - Source: https://github.com/phoenixframework/phoenix
+
+## Implementation
+- Accessing `/api/temperature` returns a list of temperatures in fahrenheit, celsius, and kelvin.
+- Three random temperatures were chosen to demonstrate the functionality. 
